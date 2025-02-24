@@ -2,6 +2,12 @@
 
 🤓 two scenarios for applying the basic knowledge of data structure
 
+# Environment Setup
+
+The experiments are implemented in **C language** using **Microsoft Visual Studio 2010 (VC2010)**. 
+
+Make sure your system has the required C/C++ compilers configured for the environment.💻
+
 # Application of Linear Linked List
 
 📖 **the management program of bibliography lists**
